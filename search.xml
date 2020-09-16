@@ -18,4 +18,37 @@
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
   </entry>
+  <entry>
+    <title>我的第一篇博客文章</title>
+    <url>/2020/09/16/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
+    <content><![CDATA[<pre><code>今天忙活了大半天，总算是把这个博客搭建好又完善了一下。这也算是我的第一个博客，所以它对我来说还挺有意义的，搭建与完善的过程中碰了不少的钉子，也查看了不少教程，都对我挺有帮助的，所以在这我把用到了的教程发出来以感谢这些文章对我的帮助。</code></pre>
+<h3 id="hexo博客静态文件生成器与我使用的hexo主题的GitHub地址："><a href="#hexo博客静态文件生成器与我使用的hexo主题的GitHub地址：" class="headerlink" title="hexo博客静态文件生成器与我使用的hexo主题的GitHub地址："></a>hexo博客静态文件生成器与我使用的hexo主题的GitHub地址：</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">https://github.com/hexojs/hexo</span><br></pre></td></tr></table></figure>
+
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">https://github.com/Fechin/hexo-theme-diaspora</span><br></pre></td></tr></table></figure>
+
+<h3 id="我在搭建与完善的过程中用到的教程文章："><a href="#我在搭建与完善的过程中用到的教程文章：" class="headerlink" title="我在搭建与完善的过程中用到的教程文章："></a>我在搭建与完善的过程中用到的教程文章：</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">https://www.cnblogs.com/visugar/p/6821777.html</span><br></pre></td></tr></table></figure>
+
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">https://www.cnblogs.com/liuxianan/p/build-blog-website-by-hexo-github.html</span><br></pre></td></tr></table></figure>
+
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">https://www.cnblogs.com/brady-wang/p/8414640.html</span><br></pre></td></tr></table></figure>
+
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">https://zhuanlan.zhihu.com/p/127786638</span><br></pre></td></tr></table></figure>
+
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">https://www.jianshu.com/p/4fbc57269f1b</span><br></pre></td></tr></table></figure>
+
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">https://blog.csdn.net/cirzearchenille/article/details/88802534</span><br></pre></td></tr></table></figure>
+
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">https://blog.csdn.net/cirzearchenille/article/details/88802534</span><br></pre></td></tr></table></figure>
+
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">https://www.cnblogs.com/nickchen121/p/10821946.html</span><br></pre></td></tr></table></figure>
+
+<p>在此再次感谢这些文章给我的帮助</p>
+]]></content>
+      <categories>
+        <category>日常</category>
+      </categories>
+      <tags>
+        <tag>吹水</tag>
+      </tags>
+  </entry>
 </search>
