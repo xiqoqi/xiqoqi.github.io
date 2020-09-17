@@ -21,7 +21,7 @@
   <entry>
     <title>test</title>
     <url>/2020/09/17/test/</url>
-    <content><![CDATA[<iframe src="https://store.steampowered.com/widget/730/?t=description" frameborder="0" width="100%" height="190"></iframe>]]></content>
+    <content><![CDATA[<iframe src="https://store.steampowered.com/widget/730/" frameborder="0" width="100%" height="190"></iframe>]]></content>
   </entry>
   <entry>
     <title>我的第一篇博客文章</title>
