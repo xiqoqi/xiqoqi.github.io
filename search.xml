@@ -1,22 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello World</title>
-    <url>/2020/09/16/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+    <title>11月游戏大作</title>
+    <url>/2020/10/23/11%E6%9C%88%E6%B8%B8%E6%88%8F%E5%A4%A7%E4%BD%9C/</url>
+    <content><![CDATA[<p>今年11月是各大游戏厂商的顶级3A作品喷薄而出的月份，游戏厂商仿佛不约而同地选择了11月作为自己年度大作发布的时间。比如10月29号<del>(就当作是十一月发售的了)</del>发售的看门狗军团，<del>(一个让我苦等了一年多的游戏，所以我早早就预购了)</del></p>
+<p><img src="https://pic.iloli.love/pic/kmg3.jpg" alt="看门狗军团"></p>
+<p>再比如11月10日发售的刺客信条：英灵殿</p>
+<p><img src="https://pic.iloli.love/pic/ckxtyld.jpg" alt="刺客信条英灵殿"></p>
+<p>还有11月13日发售的<del>我一直想买但是苦于没钱买的</del>使命召唤：黑色行动 冷战</p>
+<p><img src="https://pic.iloli.love/pic/cod17.jpg" alt="cod17"></p>
+<p>和11月19日发售的<del>(跳票到2077年的)</del>赛博朋克2077</p>
+<p><img src="https://pic.iloli.love/pic/sbpk2077.jpg" alt="赛博朋克2077"></p>
+<p>不过最让我期待的还是11月27日发售的nekopara vol.4</p>
+<iframe src="https://store.steampowered.com/widget/1406990/" frameborder="0" width="100%" height="190"></iframe>
 
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+<p><img src="https://pic.iloli.love/pic/nekoparabucket.jpg" alt="nekopara全家桶"></p>
+<p>身为拥有nekopara全家桶的人怎么能放过这次的nekopara vol.4呢</p>
+<p><img src="https://pic.iloli.love/pic/hei_heihei.jpg" alt="hei_heihei"></p>
+<p><del>作为一款优秀的第一人称射击类(FPS)游戏，nekopara vol.4当称为此次最佳大作(手动doge)</del></p>
+<p><img src="https://pic.iloli.love/pic/neko4bqb1.jpg" alt="neko4bqb"></p>
+<p><img src="https://pic.iloli.love/pic/neko4bqb2.jpg" alt="neko4bqb"></p>
+<p><img src="https://pic.iloli.love/pic/neko4bqb3.jpg" alt="neko4bqb"></p>
+<p>虚假的3A游戏：高额的价格，层出不穷的BUG，令人头疼的任务，以及对配置的高要求；<br>而真正的3A大作：</p>
+<p><img src="https://pic.iloli.love/pic/hei_cola.jpg" alt="hei_cola"></p>
+<p>好了不开玩笑了，总之期待能早早体验到11月的这些高质量，好IP，良心厂商的游戏吧</p>
 ]]></content>
+      <categories>
+        <category>游戏</category>
+      </categories>
+      <tags>
+        <tag>nekopara</tag>
+      </tags>
   </entry>
   <entry>
     <title>CS:GO</title>
@@ -33,20 +47,22 @@
       </tags>
   </entry>
   <entry>
-    <title>罗技G502HERO</title>
-    <url>/2020/09/19/%E7%BD%97%E6%8A%80G502HERO/</url>
-    <content><![CDATA[<p>本来一直在将就用着英菲克的无线鼠标，不过前两天不小心摔了一下有些不太好用了，正好在哔哩哔哩会员购上看到了这款<a href="https://mall.bilibili.com/detail.html?noTitleBar=1&loadingShow=1&from=ShoppingCart-na&msource=bilibiliapp#itemsId=10019208&goFrom=na&themeType=0" title="罗技G502HERO">罗技G502HERO</a></p>
-<p><img src="https://pic.iloli.love/pic/ljg502hero.jpg" alt="罗技G502HERO"></p>
-<p>想了想确实应该换个鼠标了，于是乎没忍住就下单了（虽然快赶我半个月的饭钱了）</p>
-<p><img src="https://pic.iloli.love/pic/ljg502herobuy.jpg" alt="罗技G502HERO"></p>
-<p>有点小贵，但是我早就想换个罗技的鼠标了（毕竟这英菲克的无线鼠标打游戏真的。。。一言难尽）。反正买也买了，就等着鼠标到货然后体验游戏鼠标给我带来的快感吧，想想都开心OvO。</p>
+    <title>Hello World</title>
+    <url>/2020/09/16/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
-      <categories>
-        <category>日常</category>
-      </categories>
-      <tags>
-        <tag>鼠标</tag>
-      </tags>
   </entry>
   <entry>
     <title>我的第一篇博客文章</title>
@@ -79,6 +95,22 @@
       </categories>
       <tags>
         <tag>吹水</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>罗技G502HERO</title>
+    <url>/2020/09/19/%E7%BD%97%E6%8A%80G502HERO/</url>
+    <content><![CDATA[<p>本来一直在将就用着英菲克的无线鼠标，不过前两天不小心摔了一下有些不太好用了，正好在哔哩哔哩会员购上看到了这款<a href="https://mall.bilibili.com/detail.html?noTitleBar=1&loadingShow=1&from=ShoppingCart-na&msource=bilibiliapp#itemsId=10019208&goFrom=na&themeType=0" title="罗技G502HERO">罗技G502HERO</a></p>
+<p><img src="https://pic.iloli.love/pic/ljg502hero.jpg" alt="罗技G502HERO"></p>
+<p>想了想确实应该换个鼠标了，于是乎没忍住就下单了（虽然快赶我半个月的饭钱了）</p>
+<p><img src="https://pic.iloli.love/pic/ljg502herobuy.jpg" alt="罗技G502HERO"></p>
+<p>有点小贵，但是我早就想换个罗技的鼠标了（毕竟这英菲克的无线鼠标打游戏真的。。。一言难尽）。反正买也买了，就等着鼠标到货然后体验游戏鼠标给我带来的快感吧，想想都开心OvO。</p>
+]]></content>
+      <categories>
+        <category>日常</category>
+      </categories>
+      <tags>
+        <tag>鼠标</tag>
       </tags>
   </entry>
   <entry>
