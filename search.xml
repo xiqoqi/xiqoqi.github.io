@@ -33,20 +33,6 @@
       </tags>
   </entry>
   <entry>
-    <title>CS:GO</title>
-    <url>/2020/09/17/CSGO/</url>
-    <content><![CDATA[<iframe src="https://store.steampowered.com/widget/730/" frameborder="0" width="100%" height="190"></iframe>
-
-<p>有没有人一起打csgo啊<br>可以<a href="https://steamcommunity.com/id/ybmmy/" title="点击加我steam好友">点击加我steam好友</a>哦 :-)</p>
-]]></content>
-      <categories>
-        <category>游戏</category>
-      </categories>
-      <tags>
-        <tag>csgo</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Hello World</title>
     <url>/2020/09/16/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
@@ -63,6 +49,33 @@
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
+  </entry>
+  <entry>
+    <title>CS:GO</title>
+    <url>/2020/09/17/CSGO/</url>
+    <content><![CDATA[<iframe src="https://store.steampowered.com/widget/730/" frameborder="0" width="100%" height="190"></iframe>
+
+<p>有没有人一起打csgo啊<br>可以<a href="https://steamcommunity.com/id/ybmmy/" title="点击加我steam好友">点击加我steam好友</a>哦 :-)</p>
+]]></content>
+      <categories>
+        <category>游戏</category>
+      </categories>
+      <tags>
+        <tag>csgo</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>hololive在中国是怎么凉的</title>
+    <url>/2020/11/02/hololive%E5%9C%A8%E4%B8%AD%E5%9B%BD%E6%98%AF%E6%80%8E%E4%B9%88%E5%87%89%E7%9A%84/</url>
+    <content><![CDATA[<p>hololive在中国是怎么凉的<del>(我怎么感觉UP主和我是一个大学的。。。床除了颜色简直是一模一样)</del></p>
+<div class="bili_video"><iframe src="https://player.bilibili.com/player.html?aid=797527764&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" width="544" height="452" allowfullscreen="true"> </iframe></div>
+]]></content>
+      <categories>
+        <category>视频</category>
+      </categories>
+      <tags>
+        <tag>hololive</tag>
+      </tags>
   </entry>
   <entry>
     <title>我听说</title>
