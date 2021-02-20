@@ -8,3 +8,5 @@ bind "c""sv_cheats 1;sv_infinite_ammo 1;mp_startmoney 99999;sv_showimpacts 1;mp_
 bind "p""bot_place"
 bind "i""toggle r_drawothermodels 1 2"
 bind "o""bot_mimic_yaw_offset 0;toggle bot_mimic 1 2"
+bind "MWHEELUP" "+jump"
+bind "MWHEELDOWN" "+jump"
