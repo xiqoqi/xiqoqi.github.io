@@ -1,5 +1,7 @@
 LQPRO-SVIP-2020-888J9I91
 
+svwft-acedk-ahyra-iefyv
+
 PUSH_KEY="SCU122049T51ccfb5f8b6dec3d803f4f1ff6511ef45f9c2bea58485"
 
 sv_cheats 1
