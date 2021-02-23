@@ -13,6 +13,7 @@ bind "i""toggle r_drawothermodels 1 2"
 bind "o""bot_mimic_yaw_offset 0;toggle bot_mimic 1 2"
 bind "MWHEELUP" "+jump"
 bind "MWHEELDOWN" "+jump"
+http://steamcommunity.com/groups/
 bind w "+forward;cl_clanid 39904832"
 bind s "+back;cl_clanid 39904874"
 bind a "+moveleft;cl_clanid 39904909"
