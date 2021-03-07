@@ -5,8 +5,10 @@ svwft-acedk-ahyra-iefyv
 PUSH_KEY="SCU122049T51ccfb5f8b6dec3d803f4f1ff6511ef45f9c2bea58485"
 
 cl_clanid 39904651
+net_graph 1;net_graphproportionalfont 0.9
 sv_cheats 1
 bind q "noclip"
+bind k "kill"
 bind "c""sv_cheats 1;sv_infinite_ammo 1;mp_startmoney 99999;sv_showimpacts 1;mp_roundtime_defuse 60;mp_freezetime 0;mp_buy_anywhere 1;mp_buytime 9999;mp_restartgame 1;mp_respawn_on_death_t 1;mp_respawnwavetime_t 0;sv_grenade_trajectory 1;bot_stop 1"
 bind "p""bot_place"
 bind "i""toggle r_drawothermodels 1 2"
